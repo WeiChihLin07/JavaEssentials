@@ -1,6 +1,6 @@
-package au.university;
+package Manage_String_Values_04;
 
-public class Main {
+public class Convert_primitive_values_to_strings {
 
     public static void main(String[] args) {
         int result = 10 + 12;
